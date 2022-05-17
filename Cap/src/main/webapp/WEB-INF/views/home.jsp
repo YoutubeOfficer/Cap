@@ -9,11 +9,9 @@
 <meta charset="UTF-8" />
 </head>
 <body>
-    <h1>로그인기능</h1>
-    <a href="/program/resources/html/memjoin.html">회원가입</a>
+    <h1>Main</h1>
+    <a href="/program/resources/html/memjoin.html">JOIN</a>
     &nbsp;&nbsp;
-    <a href="/program/resources/html/login.html">로그인</a>
-    <hr></hr>
-    <a href="/program/resources/html/g.html">갤러리</a>
+    <a href="/program/resources/html/login.html">LOGIN</a>
 </body>
 </html>
